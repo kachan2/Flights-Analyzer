@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc.a CMakeFiles/src.dir/flights.cpp.o CMakeFiles/src.dir/meta_data_entry.cpp.o CMakeFiles/src.dir/page_rank.cpp.o CMakeFiles/src.dir/utilities.cpp.o
+/usr/bin/ranlib libsrc.a
